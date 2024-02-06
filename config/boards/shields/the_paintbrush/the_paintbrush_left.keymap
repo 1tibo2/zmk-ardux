@@ -13,7 +13,7 @@
 #define ARDUX_LEFT 1
 
 // ARTS Row
-#define KEY_A 3
+#define KEY_FR_A 3
 #define KEY_R 2
 #define KEY_T 1
 #define KEY_S 0
