@@ -488,7 +488,7 @@
 				LEADING_NONES
 				&kp FR_PLUS                                   &kp FR_COLON  &kp FR_STAR  &kp FR_DQT
 				MIDDLE_NONES
-				&kp EQUAL                                   &kp MINUS &kp QMARK &mo LAYER_ID_SYMBOLS
+				&kp EQUAL                                   &kp FR_MINUS &kp FR_QMARK &mo LAYER_ID_SYMBOLS
 				TRAILING_NONES
 			>;
 		};
@@ -496,9 +496,9 @@
 			label = "Paren";
 			bindings = <
 				LEADING_NONES
-				&kp FR_PERCENT                                    &kp LPAR  &kp RPAR  &mo LAYER_ID_PARENTHETICALS
+				&kp FR_PERCENT                                    &kp FR_LPAR  &kp FR_RPAR  &mo LAYER_ID_PARENTHETICALS
 				MIDDLE_NONES
-				&kp FR_DOLLAR                                    &kp FR_LT  &kp FR_GT  &kp FR_POUND_SIGN
+				&kp FR_DOLLAR                                    &kp FR_LT  &kp FR_GT  &kp FR_HASH
 				TRAILING_NONES
 			>;
 		};
