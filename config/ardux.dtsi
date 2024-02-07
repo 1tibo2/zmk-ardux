@@ -476,9 +476,9 @@
 			label = "Number";
 			bindings = <
 				LEADING_NONES
-				&mo LAYER_ID_NUMBERS                        &kp N3    &kp N2    &kp N1
+				&mo LAYER_ID_NUMBERS                        &kp FR_N3    &kp FR_N2    &kp FR_N1
 				MIDDLE_NONES
-				&none                                       &kp N6    &kp N5    &kp N4
+				&none                                       &kp FR_N6    &kp FR_N5    &kp FR_N4
 				TRAILING_NONES
 			>;
 		};
